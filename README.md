@@ -16,4 +16,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/evangeleneyap/)! 😊
 ## ⚡️ Fun Facts
 - In my free time, I am a part-time gardener and explorer at [Palia](https://palia.com/), and a problem-solving attorney at [Phoenix Wright: Ace Attorney](https://www.ace-attorney.com/).
 - I am an ailurophile.
-- I have a well-known obsession for scallops, and matcha.
+- My peers know me for my obsession for scallops, and matcha.
