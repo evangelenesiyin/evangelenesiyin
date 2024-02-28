@@ -1,8 +1,6 @@
 ## 👩🏻‍💻 About Me
 
-Hello, I'm Evangelene!
-
-I'm a software developer based in Singapore and I come with a background in business development and 7 years of working experience in the healthcare/meditech and legal industries. I started coding in 2022 and decided to make a full switch to software engineering to make an impact and help others through the web applications I create.
+My name's Evangelene, a software developer based in Singapore.👋 I'm passionate in crafting digital experiences and I love all things front-end, including UI/UX and converting design into code. I am currently looking for roles relating to full-stack or front-end development.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangeleneyap/)! 😊
 
