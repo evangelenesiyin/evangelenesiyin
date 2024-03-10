@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 About Me
 
-My name's Evangelene, a software developer based in Singapore.👋 I'm passionate in crafting digital experiences and I love all things front-end, which includes UI/UX and converting design into code. I am currently looking for roles relating to full-stack or front-end development.
+My name's Evangelene, a software developer based in Singapore.👋 I'm passionate in crafting digital experiences and I love all things front-end, which includes UI/UX and converting design into code.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangeleneyap/)! 😊
 
