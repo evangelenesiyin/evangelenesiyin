@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 About Me
 
-My name's Evangelene, a software developer based in Singapore.👋 I'm passionate in crafting digital experiences and I love all things frontend, which includes UI/UX design and converting user stories into code.
+My name's Evangelene, a software engineer based in Singapore. I'm passionate in crafting digital experiences and I love all things frontend, which includes UI/UX design and converting user stories into code.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangeleneyap/)! 😊
 
