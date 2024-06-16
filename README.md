@@ -1,11 +1,11 @@
 ## 👩🏻‍💻 About Me
 
-My name's Evangelene, a software engineer based in Singapore. I'm passionate in crafting digital experiences and I love all things frontend, which includes UI/UX design and converting user stories into code.
+My name's Evangelene, a software engineer based in Singapore. I'm passionate in crafting digital experiences and I love all things frontend, which includes UI design and converting user stories into code.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/evangeleneyap/)! 😊
 
 ## 🛠️ Skills
-**Frontend Development:** `React` `JavaScript` `Bootstrap` `Tailwind CSS` `Material-UI` `Ant Design`<br /><br />
+**Frontend Development:** `React` `JavaScript` `TypeScript` `Bootstrap` `Tailwind CSS` `Material-UI` `Ant Design`<br /><br />
 **Backend Development:** `Express` `Node.js` `MongoDB` <br /><br />
 **Testing/Debugging:** `Insomnia` `Chrome DevTools`<br /><br />
 **Version Control:** `Git`<br /><br />
